@@ -5,9 +5,6 @@
 	Name="VDCapture"
 	ProjectGUID="{D6C8E0F0-B596-4F62-A5A8-760F425B2BAC}"
 	RootNamespace="VDCapture"
-	SccProjectName="Perforce Project"
-	SccLocalPath=".."
-	SccProvider="MSSCCI:Perforce SCM"
 	Keyword="Win32Proj"
 	>
 	<Platforms>
@@ -47,7 +44,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories="res"
+				AdditionalIncludeDirectories="res;&quot;F:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include&quot;;&quot;F:\Program Files\Microsoft SDKs\Windows\v6.1\Include&quot;"
 				PreprocessorDefinitions="WIN32;_DEBUG;_LIB"
 				MinimalRebuild="true"
 				BasicRuntimeChecks="3"
@@ -177,7 +174,7 @@
 			/>
 			<Tool
 				Name="VCCLCompilerTool"
-				AdditionalIncludeDirectories="res"
+				AdditionalIncludeDirectories="res;&quot;F:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include&quot;;&quot;F:\Program Files\Microsoft SDKs\Windows\v6.1\Include&quot;"
 				PreprocessorDefinitions="WIN32;NDEBUG;_LIB"
 				RuntimeLibrary="0"
 				UsePrecompiledHeader="2"

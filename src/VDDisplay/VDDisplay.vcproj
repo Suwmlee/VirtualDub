@@ -5,9 +5,6 @@
 	Name="VDDisplay"
 	ProjectGUID="{6638DCCD-01B4-49F8-BC66-696648AA0B84}"
 	RootNamespace="VDDisplay"
-	SccProjectName="Perforce Project"
-	SccLocalPath=".."
-	SccProvider="MSSCCI:Perforce SCM"
 	Keyword="Win32Proj"
 	>
 	<Platforms>

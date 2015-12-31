@@ -5,10 +5,6 @@
 	Name="Lina"
 	ProjectGUID="{CED5BA56-E7A7-4AD4-B8F5-C0259B03A821}"
 	RootNamespace="Lina"
-	SccProjectName="SAK"
-	SccAuxPath="SAK"
-	SccLocalPath="SAK"
-	SccProvider="SAK"
 	>
 	<Platforms>
 		<Platform

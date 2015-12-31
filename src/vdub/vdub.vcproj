@@ -5,10 +5,6 @@
 	Name="vdub"
 	ProjectGUID="{3039BD0D-620D-4C6C-93E4-DFD4EDC8042A}"
 	RootNamespace="vdub"
-	SccProjectName="SAK"
-	SccAuxPath="SAK"
-	SccLocalPath="SAK"
-	SccProvider="SAK"
 	>
 	<Platforms>
 		<Platform

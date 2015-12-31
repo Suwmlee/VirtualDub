@@ -5,10 +5,6 @@
 	Name="test"
 	ProjectGUID="{2839395D-BCEF-4D00-B847-031EDA2752E4}"
 	RootNamespace="test"
-	SccProjectName="SAK"
-	SccAuxPath="SAK"
-	SccLocalPath="SAK"
-	SccProvider="SAK"
 	>
 	<Platforms>
 		<Platform

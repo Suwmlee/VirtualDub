@@ -5,9 +5,6 @@
 	Name="Kasumi"
 	ProjectGUID="{0D252872-7542-4232-8D02-53F9182AEE15}"
 	RootNamespace="Kasumi"
-	SccProjectName="Perforce Project"
-	SccLocalPath=".."
-	SccProvider="MSSCCI:Perforce SCM"
 	>
 	<Platforms>
 		<Platform

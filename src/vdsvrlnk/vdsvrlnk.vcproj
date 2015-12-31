@@ -5,10 +5,6 @@
 	Name="vdsvrlnk"
 	ProjectGUID="{89AF8B3E-6173-4778-9D7C-A41F0D3CAB9C}"
 	RootNamespace="vdsvrlnk"
-	SccProjectName="SAK"
-	SccAuxPath="SAK"
-	SccLocalPath="SAK"
-	SccProvider="SAK"
 	>
 	<Platforms>
 		<Platform

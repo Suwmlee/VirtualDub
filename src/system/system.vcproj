@@ -5,9 +5,6 @@
 	Name="system"
 	ProjectGUID="{C2082189-3ECB-4079-91FA-89D3C8A305C0}"
 	RootNamespace="system"
-	SccProjectName="Perforce Project"
-	SccLocalPath=".."
-	SccProvider="MSSCCI:Perforce SCM"
 	>
 	<Platforms>
 		<Platform

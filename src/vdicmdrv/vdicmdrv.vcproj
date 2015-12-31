@@ -5,10 +5,6 @@
 	Name="vdicmdrv"
 	ProjectGUID="{5F0777EC-CD14-43CD-9BA6-ED9295F6312E}"
 	RootNamespace="vdicmdrv"
-	SccProjectName="SAK"
-	SccAuxPath="SAK"
-	SccLocalPath="SAK"
-	SccProvider="SAK"
 	>
 	<Platforms>
 		<Platform

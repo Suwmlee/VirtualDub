@@ -5,10 +5,6 @@
 	Name="vdlaunch"
 	ProjectGUID="{6CC5D826-A36B-40B6-A40B-63733D47C4B5}"
 	RootNamespace="vdlaunch"
-	SccProjectName="SAK"
-	SccAuxPath="SAK"
-	SccLocalPath="SAK"
-	SccProvider="SAK"
 	Keyword="Win32Proj"
 	>
 	<Platforms>

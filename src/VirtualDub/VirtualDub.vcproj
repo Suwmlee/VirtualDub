@@ -5,9 +5,6 @@
 	Name="VirtualDub"
 	ProjectGUID="{0766DAC1-1BC2-4FC8-BDDA-E083FC2F56F4}"
 	RootNamespace="VirtualDub"
-	SccProjectName="Perforce Project"
-	SccLocalPath=".."
-	SccProvider="MSSCCI:Perforce SCM"
 	>
 	<Platforms>
 		<Platform
@@ -65,7 +62,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories=".\h,.\res,..\h,..\vdsvrlnk,..\sylia,autogen"
+				AdditionalIncludeDirectories=".\h;.\res;..\h;..\vdsvrlnk;..\sylia;autogen;&quot;F:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include&quot;;&quot;F:\Program Files\Microsoft SDKs\Windows\v6.1\Include&quot;"
 				PreprocessorDefinitions="_DEBUG;WIN32;_WINDOWS;WIN32_LEAN_AND_MEAN;NOMINMAX"
 				StringPooling="true"
 				MinimalRebuild="true"
@@ -95,7 +92,7 @@
 				AdditionalDependencies="winmm.lib vfw32.lib dxguid.lib msacm32.lib comctl32.lib shlwapi.lib $(IntDir)\verstub.obj priss.lib sylia.lib system.lib dita.lib meia.lib kasumi.lib"
 				LinkIncremental="2"
 				SuppressStartupBanner="true"
-				AdditionalLibraryDirectories="$(VDLibPath)"
+				AdditionalLibraryDirectories="&quot;$(VDLibPath)&quot;;&quot;F:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86&quot;;&quot;F:\Program Files\Microsoft SDKs\Windows\v6.1\Lib&quot;"
 				GenerateManifest="false"
 				IgnoreDefaultLibraryNames="libc,libcmt"
 				GenerateDebugInformation="true"
@@ -281,7 +278,7 @@
 			/>
 			<Tool
 				Name="VCCLCompilerTool"
-				AdditionalIncludeDirectories=".\h,.\res,..\h,..\vdsvrlnk,..\sylia,autogen"
+				AdditionalIncludeDirectories=".\h;.\res;..\h;..\vdsvrlnk;..\sylia;autogen;&quot;F:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include&quot;;&quot;F:\Program Files\Microsoft SDKs\Windows\v6.1\Include&quot;"
 				PreprocessorDefinitions="NDEBUG;_USE_NON_INTEL_COMPILER;WIN32;_WINDOWS;WIN32_LEAN_AND_MEAN;NOMINMAX"
 				StringPooling="true"
 				RuntimeLibrary="0"
@@ -309,7 +306,7 @@
 				AdditionalDependencies="winmm.lib vfw32.lib dxguid.lib msacm32.lib comctl32.lib shlwapi.lib $(IntDir)\verstub.obj priss.lib sylia.lib system.lib dita.lib meia.lib kasumi.lib"
 				LinkIncremental="1"
 				SuppressStartupBanner="true"
-				AdditionalLibraryDirectories="$(VDLibPath)"
+				AdditionalLibraryDirectories="&quot;$(VDLibPath)&quot;;&quot;F:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86&quot;;&quot;F:\Program Files\Microsoft SDKs\Windows\v6.1\Lib&quot;"
 				GenerateManifest="false"
 				IgnoreDefaultLibraryNames="libc"
 				GenerateDebugInformation="true"

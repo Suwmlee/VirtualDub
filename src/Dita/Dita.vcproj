@@ -5,9 +5,6 @@
 	Name="Dita"
 	ProjectGUID="{308BF83F-B11C-48DC-AAF2-4A2003E8C377}"
 	RootNamespace="Dita"
-	SccProjectName="Perforce Project"
-	SccLocalPath=".."
-	SccProvider="MSSCCI:Perforce SCM"
 	>
 	<Platforms>
 		<Platform

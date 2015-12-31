@@ -5,10 +5,6 @@
 	Name="VDFilters"
 	ProjectGUID="{E256E8BB-FFDA-4D5A-A999-B796C0C97AF1}"
 	RootNamespace="VDFilters"
-	SccProjectName="SAK"
-	SccAuxPath="SAK"
-	SccLocalPath="SAK"
-	SccProvider="SAK"
 	Keyword="Win32Proj"
 	>
 	<Platforms>

@@ -5,10 +5,6 @@
 	Name="Setup"
 	ProjectGUID="{6A3E162D-4403-486B-A1DF-2AA22E2F34FC}"
 	RootNamespace="Setup"
-	SccProjectName="SAK"
-	SccAuxPath="SAK"
-	SccLocalPath="SAK"
-	SccProvider="SAK"
 	>
 	<Platforms>
 		<Platform

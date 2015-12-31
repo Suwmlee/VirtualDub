@@ -5,10 +5,6 @@
 	Name="Sylia"
 	ProjectGUID="{146714D9-1D90-4D50-B830-F453484EC2CD}"
 	RootNamespace="Sylia"
-	SccProjectName="SAK"
-	SccAuxPath="SAK"
-	SccLocalPath="SAK"
-	SccProvider="SAK"
 	>
 	<Platforms>
 		<Platform

@@ -5,10 +5,6 @@
 	Name="helpfile"
 	ProjectGUID="{034CFB04-D0EC-4CBB-BCA6-EFD8F964E9DE}"
 	RootNamespace="helpfile"
-	SccProjectName="SAK"
-	SccAuxPath="SAK"
-	SccLocalPath="SAK"
-	SccProvider="SAK"
 	Keyword="MakeFileProj"
 	>
 	<Platforms>

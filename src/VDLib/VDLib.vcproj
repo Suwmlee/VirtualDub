@@ -5,9 +5,6 @@
 	Name="VDLib"
 	ProjectGUID="{1D6B560F-064D-401E-AC94-C12B6354429C}"
 	RootNamespace="VDLib"
-	SccProjectName="Perforce Project"
-	SccLocalPath=".."
-	SccProvider="MSSCCI:Perforce SCM"
 	Keyword="Win32Proj"
 	>
 	<Platforms>

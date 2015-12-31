@@ -5,9 +5,6 @@
 	Name="Riza"
 	ProjectGUID="{AF613049-D4E2-4C65-ADEE-40DC037995CC}"
 	RootNamespace="Riza"
-	SccProjectName="Perforce Project"
-	SccLocalPath=".."
-	SccProvider="MSSCCI:Perforce SCM"
 	>
 	<Platforms>
 		<Platform
@@ -54,7 +51,7 @@
 				Name="VCCLCompilerTool"
 				Optimization="2"
 				InlineFunctionExpansion="1"
-				AdditionalIncludeDirectories="h,..\h,res"
+				AdditionalIncludeDirectories="h;..\h;res;&quot;F:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include&quot;;&quot;F:\Program Files\Microsoft SDKs\Windows\v6.1\Include&quot;"
 				PreprocessorDefinitions="NDEBUG;WIN32;_LIB;NOMINMAX"
 				StringPooling="true"
 				RuntimeLibrary="0"
@@ -200,7 +197,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories="h,..\h,res"
+				AdditionalIncludeDirectories="h;..\h;res;&quot;F:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include&quot;;&quot;F:\Program Files\Microsoft SDKs\Windows\v6.1\Include&quot;"
 				PreprocessorDefinitions="_DEBUG;WIN32;_LIB;NOMINMAX"
 				StringPooling="true"
 				MinimalRebuild="true"

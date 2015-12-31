@@ -5,10 +5,6 @@
 	Name="vdjson"
 	ProjectGUID="{E6FA3718-4AD2-4B58-903A-45F35CCD2FDE}"
 	RootNamespace="vdjson"
-	SccProjectName="SAK"
-	SccAuxPath="SAK"
-	SccLocalPath="SAK"
-	SccProvider="SAK"
 	Keyword="Win32Proj"
 	>
 	<Platforms>

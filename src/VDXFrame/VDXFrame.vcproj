@@ -5,9 +5,6 @@
 	Name="VDXFrame"
 	ProjectGUID="{8102A7FC-A8CF-4D5A-A5D7-D858B4626D0D}"
 	RootNamespace="VDXFrame"
-	SccProjectName="Perforce Project"
-	SccLocalPath="..\.."
-	SccProvider="MSSCCI:Perforce SCM"
 	Keyword="Win32Proj"
 	>
 	<Platforms>

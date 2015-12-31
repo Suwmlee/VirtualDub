@@ -5,10 +5,6 @@
 	Name="vdremote"
 	ProjectGUID="{34D516A5-3A5B-4F4C-803F-B9360D507E31}"
 	RootNamespace="vdremote"
-	SccProjectName="SAK"
-	SccAuxPath="SAK"
-	SccLocalPath="SAK"
-	SccProvider="SAK"
 	>
 	<Platforms>
 		<Platform
