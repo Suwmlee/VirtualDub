@@ -12,7 +12,7 @@ Feel free to use according to GPL license
     Visual Studio 2005 Professional Edition
 
 ###Reference:
-    [Compiling VirtualDub with VC++ Express](http://forum.doom9.org/showthread.php?t=152778)
+   [Compiling VirtualDub with VC++ Express](http://forum.doom9.org/showthread.php?t=152778)
 
 ###Plugins:
-    [FFMpeg Input Plugin](http://sourceforge.net/projects/virtualdubffmpeginputplugin/?source=navbar)<br />
+   [FFMpeg Input Plugin](http://sourceforge.net/projects/virtualdubffmpeginputplugin/?source=navbar)
